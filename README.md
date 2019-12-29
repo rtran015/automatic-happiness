@@ -1,4 +1,3 @@
-# automatic-happiness
 Optimizely OX Segment Generator Chrome Extension
 
 This is a Chrome extension designed for Optimizely users.
