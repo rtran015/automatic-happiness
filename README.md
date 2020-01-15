@@ -1,4 +1,7 @@
+https://chrome.google.com/webstore/detail/optimizely-segment-tab-ge/dgehkogiclmojkcddgahgnflegahhnlm
+
 Optimizely OX Segment Generator Chrome Extension
+
 
 This extension opens all of the default Optimizely segments for your experiment in new tabs.
 
